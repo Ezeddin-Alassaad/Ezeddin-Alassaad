@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="mailto:ezeddin.alassaad@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="ezeddin al-assaad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ezeddin al-assaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezeddin al-assaad" height="30" width="40" /></a>
 </p>
 
