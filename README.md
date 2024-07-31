@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=17F715&background=FFF4E400&width=435&lines=Hi+there%2C+i'm+Ezeddin)](https://git.io/typing-svg)
-<h3 align="center">Backend Developer(NodeJs)</h3>
+<h3 align="center">Software Engineer || NodeJS || NextJs || ReactJs</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
